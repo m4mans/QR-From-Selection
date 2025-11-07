@@ -2,6 +2,8 @@
 
 A simple Chrome extension that generates QR codes from selected text on web pages.
 
+![QR From Selection Demo](demo/Qr-From-Selection-Demo.gif)
+
 ## Features
 
 - Generate QR codes from selected text instantly
